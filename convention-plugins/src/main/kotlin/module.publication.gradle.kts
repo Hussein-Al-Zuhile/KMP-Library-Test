@@ -39,7 +39,7 @@ publishing {
                 }
             }
             scm {
-                url.set("https://github.com/Kotlin/multiplatform-library-template")
+                url.set("https://github.com/Hussein-Al-Zuhile/KMP-Library-Test")
             }
         }
     }
